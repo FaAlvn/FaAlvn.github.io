@@ -8,7 +8,7 @@ subtitle: PhD Student, University of Maryland, College Park
 profile:
   align: right
   image: photo.jpeg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
