@@ -25,6 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a PhD student in Electrical and Computer Engineering at University of Maryland, College Park, where I am advised by [Prof. Dinesh Manocha](https://ece.umd.edu/clark/faculty/901/Dinesh-Manocha). As a member of [GAMMA Lab](https://gamma.umd.edu/), my current research focus is developing terrain property-aware navigation algorithms for mobile robots. Broadly, I am interested in investigating how multi-modal sensory data can be used to build a belief about the physical properties of materials in interaction with a robot. I received my MSc and BSc in Electrical Engineering (Controls) at University of Tehran.
+I'm a PhD student in Electrical and Computer Engineering at University of Maryland, College Park, where I am advised by [Prof. Dinesh Manocha](https://ece.umd.edu/clark/faculty/901/Dinesh-Manocha). As a member of [GAMMA Lab](https://gamma.umd.edu/), my current research focus is developing terrain property-aware navigation algorithms for mobile robots. Broadly, I am interested in investigating how multi-modal sensory data can be used to build a belief about the physical properties of materials in interaction with a robot. I received my MSc and BSc in Electrical Engineering (Controls) from University of Tehran.
 
 
