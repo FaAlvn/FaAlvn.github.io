@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Fatemeh Alvankarian, a PhD student at University of Maryland, College Park, where I am advised by [Prof. Dinesh Manocha](https://ece.umd.edu/clark/faculty/901/Dinesh-Manocha). My current research focus is developing terrain-property aware navigation algorithms for mobile robots. Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am Fatemeh Alvankarian, a PhD student at University of Maryland, College Park, where I am advised by [Prof. Dinesh Manocha](https://ece.umd.edu/clark/faculty/901/Dinesh-Manocha). My current research focus is developing terrain property-aware navigation algorithms for mobile robots. Broadly, I am interested in investigating how multi-modal sensory data can be used to build a belief about the physical properties of materials in interaction with a robot.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I received my MSc and BSc in Electrical Engineering (Controls) at University of Tehran, where I worked on developing reinforcement-learning based control algorithms for robotics applications. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
