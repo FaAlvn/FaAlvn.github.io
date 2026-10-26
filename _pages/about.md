@@ -6,6 +6,10 @@ nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: PhD Student, University of Maryland, College Park
 
+_styles: >
+  header.navbar {
+    display: none !important;
+  }
 profile:
   align: right
   image: photo.jpeg
