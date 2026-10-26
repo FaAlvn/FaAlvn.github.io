@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 subtitle: PhD Student, University of Maryland, College Park
 
